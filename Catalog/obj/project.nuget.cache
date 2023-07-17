@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ErRblzuh02nILgTiZwtuyx80G1zkSdBi9ZnqZhak7LE19jDM19/voJZOTRvrL1dkmm/EWLXBfoe8xSWW76kZg==",
+  "success": true,
+  "projectFilePath": "/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/home/vini/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/vini/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/vini/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/vini/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/vini/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/vini/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
