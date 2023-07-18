@@ -40,3 +40,14 @@
 /home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
 /home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
 /home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/HealthChecks.MongoDb.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/home/vini/dev/viniciusborgesbr/dotnet-5-rest-api-tutorial/Catalog/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
