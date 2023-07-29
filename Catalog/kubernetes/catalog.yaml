@@ -13,11 +13,11 @@ spec:
     spec:
       containers:
         - name: catalog
-          image: viniciusborgesbr/catalog:v1
-          # resources:
-          #   limits:
-          #     memory: "128Mi"
-          #     cpu: "500m"
+          image: viniciusborgesbr/catalog:v2
+          resources:
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
           ports:
             - containerPort: 80
           env:
