@@ -1,3 +1,5 @@
+using System;
+
 namespace Catalog.Settings
 {
     public class MongoDbSettings
@@ -11,6 +13,7 @@ namespace Catalog.Settings
         {
             get
             {
+                Console.WriteLine($"mongodb://{User}:{Password}@{Host}:{Port}");
                 return $"mongodb://{User}:{Password}@{Host}:{Port}";
             }
         }
